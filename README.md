@@ -2,6 +2,8 @@
 An image analysis tool that recognises and tranlsates handwritten text from an image. It uses Google Cloud services.
 
 ### How to use
+You should first copy your API key and cx key to the `gAPIKey` and `cx` fields respectively.
+
 After launching the app, select an image file. After the analysis, you should specify:
 * The language of the handwritten text
 * The language that you want to translate to
