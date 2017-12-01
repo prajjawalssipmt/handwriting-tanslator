@@ -21,4 +21,5 @@ Predicted language:	sv
 	   Translation:	how did you
 ```
 According to the log, the language prediction was correct and no spelling correction was required.
+
 [results-image]: https://github.com/yannismarkou/handwriting-image-translator/blob/master/results.png "Results"
